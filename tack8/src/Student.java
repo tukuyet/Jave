@@ -44,7 +44,7 @@ public class Student {
     public static void main(String[] args) {
         ClassRoom C1 = new ClassRoom(1, "T2109A");
         System.out.println(C1);
-        Student S1 = new Student(1, "Anh Quan",C1);
+        Student S1 = new Student(1, "Anh Tuan",C1);
         System.out.println(S1.toString());
     }
 }

@@ -39,7 +39,7 @@ public class ClassRoom {
     public static void main(String[] args) {
         ClassRoom Cl1 = new ClassRoom();
         System.out.println(Cl1.toString());
-        ClassRoom Cl2 = new ClassRoom(1, "Anh Quan");
+        ClassRoom Cl2 = new ClassRoom(1, "Anh Tuan");
         System.out.println(Cl2.toString());
     }
 }
